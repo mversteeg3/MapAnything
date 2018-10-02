@@ -48,7 +48,7 @@ export default class App extends React.Component {
         });
       }
     }).catch(function (err) {
-      Toast.show("Something went wrong, please try again later")
+      TestFairy.log(err)
     });
   }
 
