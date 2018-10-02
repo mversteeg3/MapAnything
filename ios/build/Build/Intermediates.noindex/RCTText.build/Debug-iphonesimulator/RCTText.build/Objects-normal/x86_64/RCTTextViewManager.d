@@ -27,13 +27,10 @@ dependencies: \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
-  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerUtils.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerObserverCoordinator.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
-  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/Text/RCTTextView.h

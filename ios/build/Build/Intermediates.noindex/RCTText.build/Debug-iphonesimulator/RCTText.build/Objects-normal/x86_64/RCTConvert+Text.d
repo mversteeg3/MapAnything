@@ -12,5 +12,4 @@ dependencies: \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/RCTTextTransform.h
+  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

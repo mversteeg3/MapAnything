@@ -25,5 +25,4 @@ dependencies: \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/UIView+React.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Base/RCTParserUtils.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTShadowView.h \
-  /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTLayout.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Base/RCTRootView.h

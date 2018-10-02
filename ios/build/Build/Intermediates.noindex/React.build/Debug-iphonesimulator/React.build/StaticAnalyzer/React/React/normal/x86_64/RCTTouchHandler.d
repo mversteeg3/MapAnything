@@ -12,7 +12,6 @@ dependencies: \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Base/RCTEventDispatcher.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Base/RCTLog.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/mversteeg3/MapAnything/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Base/RCTTouchEvent.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Modules/RCTUIManager.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Base/RCTRootView.h \

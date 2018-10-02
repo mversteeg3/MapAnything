@@ -25,5 +25,4 @@ dependencies: \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h

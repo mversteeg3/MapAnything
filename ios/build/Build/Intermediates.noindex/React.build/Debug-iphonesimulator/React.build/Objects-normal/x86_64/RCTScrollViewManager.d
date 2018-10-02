@@ -28,6 +28,5 @@ dependencies: \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTView.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTShadowView.h \
-  /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTLayout.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Base/RCTRootView.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Modules/RCTUIManager.h

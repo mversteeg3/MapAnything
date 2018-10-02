@@ -1,8 +1,10 @@
 /**
  * Copyright (c) 2015-present, Facebook, Inc.
+ * All rights reserved.
  *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
+ * This source code is licensed under the BSD-style license found in the
+ * LICENSE file in the root directory of this source tree. An additional grant
+ * of patent rights can be found in the PATENTS file in the same directory.
  */
 
 #import <QuartzCore/QuartzCore.h>
@@ -15,7 +17,6 @@
 #import <React/RCTPointerEvents.h>
 #import <React/RCTTextDecorationLineType.h>
 #import <yoga/Yoga.h>
-#import <WebKit/WebKit.h>
 
 /**
  * This class provides a collection of conversion functions for mapping
@@ -69,10 +70,6 @@ typedef NSURL RCTFileURL;
 + (UIReturnKeyType)UIReturnKeyType:(id)json;
 #if !TARGET_OS_TV
 + (UIDataDetectorTypes)UIDataDetectorTypes:(id)json;
-#endif
-
-#if TARGET_OS_IPHONE && WEBKIT_IOS_10_APIS_AVAILABLE
-+ (WKDataDetectorTypes)WKDataDetectorTypes:(id)json;
 #endif
 
 + (UIViewContentMode)UIViewContentMode:(id)json;
@@ -182,7 +179,7 @@ RCT_CUSTOM_CONVERTER(type, name, [json getter])
  * This macro is used for creating converter functions with arbitrary logic.
  */
 #define RCT_CUSTOM_CONVERTER(type, name, code) \
-+ (type)name:(id)json RCT_DYNAMIC              \
++ (type)name:(id)json                          \
 {                                              \
   if (!RCT_DEBUG) {                            \
     return code;                               \
@@ -221,7 +218,7 @@ RCT_CUSTOM_CONVERTER(type, type, [RCT_DEBUG ? [self NSNumber:json] : json getter
  * This macro is used for creating converters for enum types.
  */
 #define RCT_ENUM_CONVERTER(type, values, default, getter) \
-+ (type)type:(id)json RCT_DYNAMIC                         \
++ (type)type:(id)json                                     \
 {                                                         \
   static NSDictionary *mapping;                           \
   static dispatch_once_t onceToken;                       \
@@ -236,7 +233,7 @@ RCT_CUSTOM_CONVERTER(type, type, [RCT_DEBUG ? [self NSNumber:json] : json getter
  * multiple enum values combined with | operator
  */
 #define RCT_MULTI_ENUM_CONVERTER(type, values, default, getter) \
-+ (type)type:(id)json RCT_DYNAMIC                         \
++ (type)type:(id)json                                     \
 {                                                         \
   static NSDictionary *mapping;                           \
   static dispatch_once_t onceToken;                       \
@@ -251,7 +248,7 @@ RCT_CUSTOM_CONVERTER(type, type, [RCT_DEBUG ? [self NSNumber:json] : json getter
  * for typed arrays.
  */
 #define RCT_ARRAY_CONVERTER_NAMED(type, name)          \
-+ (NSArray<type *> *)name##Array:(id)json RCT_DYNAMIC  \
++ (NSArray<type *> *)name##Array:(id)json              \
 {                                                      \
   return RCTConvertArrayValue(@selector(name:), json); \
 }

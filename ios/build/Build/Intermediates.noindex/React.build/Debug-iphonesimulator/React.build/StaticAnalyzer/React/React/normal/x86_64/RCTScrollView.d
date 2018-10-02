@@ -11,9 +11,9 @@ dependencies: \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Base/RCTFrameUpdate.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Base/RCTInvalidating.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h \
-  /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTComponent.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTView.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTComponent.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTPointerEvents.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Base/RCTConvert.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTAnimationType.h \

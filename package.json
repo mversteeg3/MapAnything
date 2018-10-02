@@ -7,10 +7,9 @@
     "ios": "react-native run-ios"
   },
   "dependencies": {
-    "@babel/preset-react": "^7.0.0",
     "bluebird": "^3.5.2",
     "react": "16.3.1",
-    "react-native": "^0.57.1",
+    "react-native": "^0.54",
     "react-native-elements": "^0.19.1",
     "react-native-maps": "^0.21.0",
     "react-native-simple-toast": "0.0.8",
