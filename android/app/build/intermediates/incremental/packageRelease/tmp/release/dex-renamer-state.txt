@@ -1,4 +1,4 @@
-#Tue Oct 02 12:54:33 EDT 2018
+#Tue Oct 02 13:36:22 EDT 2018
 base.0=/Users/mversteeg3/MapAnything/android/app/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex
