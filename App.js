@@ -41,6 +41,8 @@ export default class App extends React.Component {
           },
         });
       }
+    }).catch(function (err) {
+      Toast.show("Something went wrong, please try again later")
     });
   }
 
@@ -69,7 +71,7 @@ export default class App extends React.Component {
     lookupLocation(location.place_id).then(function (details) {
       self.gotLocationDetails(details)
     }).catch(function (err) {
-      console.error(err)
+      Toast.show("Something went wrong, please try again later")
     });
   };
 

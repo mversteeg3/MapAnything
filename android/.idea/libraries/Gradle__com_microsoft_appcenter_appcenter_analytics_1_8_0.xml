@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.appcenter:appcenter-analytics-1.8.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-1.8.0.aar/26fce06f22b1ee9afecb156b68f86a76/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-1.8.0.aar/26fce06f22b1ee9afecb156b68f86a76/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.appcenter/appcenter-analytics/1.8.0/9b3d05626c738d1a6c70e3ba2d75afc0d9f722e0/appcenter-analytics-1.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -163,12 +163,13 @@ const styles = StyleSheet.create({
   listAndBarContainer: {
     flex: 8,
     borderRadius: 8,
+    backgroundColor: 'white'
   },
   autocompleteContainer: {
     borderWidth: 1,
     borderRadius: 8,
     borderColor: 'black',
-    // backgroundColor: 'yellow',
+    backgroundColor: 'white',
     height: 40,
   },
   autocompleteContainer_WithList: {
