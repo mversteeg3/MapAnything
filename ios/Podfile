@@ -18,14 +18,16 @@ target 'MapAnything' do
       'RCTText',
       'RCTVibration',
       'RCTWebSocket',
-      'BatchedBridge'
+      'CxxBridge'
     ]
 
     pod 'GoogleMaps'  # Remove this line if you don't want to support GoogleMaps on iOS
     pod 'react-native-maps', path: '../node_modules/react-native-maps'
     pod 'react-native-google-maps', path: '../node_modules/react-native-maps'  # If you need GoogleMaps support on iOS
   platform :ios, '9.0'
-  pod 'react-native-config', :path => '../node_modules/react-native-config'
+
+
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
 end
 

@@ -61132,7 +61132,7 @@ __d(function (global, _require, module, exports, _dependencyMap) {
             style: styles.container,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 79
+              lineNumber: 78
             }
           },
           _react3.default.createElement(
@@ -61151,7 +61151,7 @@ __d(function (global, _require, module, exports, _dependencyMap) {
               region: this.state.region,
               __source: {
                 fileName: _jsxFileName,
-                lineNumber: 80
+                lineNumber: 79
               }
             },
             this.state.markers.map(function (marker) {
@@ -61164,7 +61164,7 @@ __d(function (global, _require, module, exports, _dependencyMap) {
                 },
                 __source: {
                   fileName: _jsxFileName,
-                  lineNumber: 92
+                  lineNumber: 91
                 }
               });
             })
@@ -61175,7 +61175,7 @@ __d(function (global, _require, module, exports, _dependencyMap) {
               style: styles.searchBarContainer,
               __source: {
                 fileName: _jsxFileName,
-                lineNumber: 101
+                lineNumber: 99
               }
             },
             _react3.default.createElement(_AutocompleteList.AutocompleteList, {
@@ -61185,7 +61185,7 @@ __d(function (global, _require, module, exports, _dependencyMap) {
               style: styles.searchBar,
               __source: {
                 fileName: _jsxFileName,
-                lineNumber: 102
+                lineNumber: 100
               }
             })
           )
@@ -61435,6 +61435,7 @@ __d(function (global, _require, module, exports, _dependencyMap) {
             },
             _react3.default.createElement(_reactNative.View, {
               style: styles.barPadding,
+              pointerEvents: "none",
               __source: {
                 fileName: _jsxFileName,
                 lineNumber: 83
@@ -61490,6 +61491,7 @@ __d(function (global, _require, module, exports, _dependencyMap) {
             ),
             _react3.default.createElement(_reactNative.View, {
               style: styles.barPadding,
+              pointerEvents: "none",
               __source: {
                 fileName: _jsxFileName,
                 lineNumber: 102
@@ -61509,6 +61511,7 @@ __d(function (global, _require, module, exports, _dependencyMap) {
           },
           _react3.default.createElement(_reactNative.View, {
             style: styles.barPadding,
+            pointerEvents: "none",
             __source: {
               fileName: _jsxFileName,
               lineNumber: 108
@@ -61589,6 +61592,7 @@ __d(function (global, _require, module, exports, _dependencyMap) {
           ),
           _react3.default.createElement(_reactNative.View, {
             style: styles.barPadding,
+            pointerEvents: "none",
             __source: {
               fileName: _jsxFileName,
               lineNumber: 138

@@ -12,7 +12,6 @@ const DEFAULT_LATITUDE = 37.78825;
 const DEFAULT_LONGITUDE = -122.4324;
 const DEFAULT_LATITUDE_DELTA = 0.0922;
 
-
 export default class App extends React.Component {
   constructor(props) {
     super(props);
@@ -91,7 +90,6 @@ export default class App extends React.Component {
           {this.state.markers.map(marker => (
             <Marker
               title={marker.name}
-              // image={flagPinkImg}
               key={marker.place_id}
               coordinate={{ latitude: marker.geometry.location.lat, longitude: marker.geometry.location.lng }}
             />

@@ -80,7 +80,7 @@ export class AutocompleteList extends React.PureComponent {
     if ((this.state.data.length == 0 || this.state.loading) && this.state.connected) {
       return (
         <View style={styles.mainContainer}>
-          <View style={styles.barPadding} />
+          <View style={styles.barPadding} pointerEvents="none"/>
           <View style={[styles.autocompleteContainer, styles.autocompleteContainer_WithoutList]}>
             <TextInput
               ref={(input) => { this.inputText = input; }}
@@ -99,13 +99,13 @@ export class AutocompleteList extends React.PureComponent {
               value={this.state.text} />
             <ActivityIndicator animating={this.state.loading} style={styles.spinner} />
           </View>
-          <View style={styles.barPadding} />
+          <View style={styles.barPadding} pointerEvents="none"/>
         </View>
       );
     }
     return (
       <View style={styles.mainContainer}>
-        <View style={styles.barPadding} />
+        <View style={styles.barPadding} pointerEvents="none"/>
         <View style={styles.listAndBarContainer}>
           <View style={[styles.autocompleteContainer, styles.autocompleteContainer_WithList]}>
             <TextInput
@@ -135,7 +135,7 @@ export class AutocompleteList extends React.PureComponent {
             }
             keyExtractor={(item, index) => item.id} />
         </View>
-        <View style={styles.barPadding} />
+        <View style={styles.barPadding} pointerEvents="none"/>
       </View>
     );
   }
