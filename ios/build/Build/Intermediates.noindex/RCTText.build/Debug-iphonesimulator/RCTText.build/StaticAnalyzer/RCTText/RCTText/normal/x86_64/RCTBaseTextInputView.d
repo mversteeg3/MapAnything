@@ -29,5 +29,8 @@ dependencies: \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h

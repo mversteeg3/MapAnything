@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: testfairy:testfairy-android-sdk-1.8.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/testfairy-android-sdk-1.8.1.aar/21e0fc18b4f7d75d6f7086f4d67311a3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/testfairy-android-sdk-1.8.1.aar/21e0fc18b4f7d75d6f7086f4d67311a3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

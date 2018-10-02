@@ -1,7 +1,7 @@
 dependencies: /Users/mversteeg3/MapAnything/ios/MapAnything/AppDelegate.m \
   /Users/mversteeg3/MapAnything/ios/MapAnything/AppDelegate.h \
-  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/AppCenterReactNativeCrashes/AppCenterReactNativeCrashes.h \
-  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBundleURLProvider.h \
+  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
@@ -9,10 +9,6 @@ dependencies: /Users/mversteeg3/MapAnything/ios/MapAnything/AppDelegate.m \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/AppCenterReactNativeAnalytics/AppCenterReactNativeAnalytics.h \
-  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/AppCenterReactNative/AppCenterReactNative.h \
-  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBundleURLProvider.h \
-  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/mversteeg3/MapAnything/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap \
   /Users/mversteeg3/MapAnything/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap \
   /Users/mversteeg3/MapAnything/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h \

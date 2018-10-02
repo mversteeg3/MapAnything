@@ -1,8 +1,6 @@
 dependencies: \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
-  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
@@ -28,6 +26,8 @@ dependencies: \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
@@ -40,4 +40,6 @@ dependencies: \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
-  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h
+  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h

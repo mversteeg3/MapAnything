@@ -4,6 +4,7 @@ import { AutocompleteList } from './components/AutocompleteList'
 import { sendPlacesQuery, lookupLocation } from './utilities/Networking.js'
 import MapView, { Marker, ProviderPropType } from 'react-native-maps';
 import { getCurrentLocation } from './utilities/Location.js'
+const TestFairy = require('react-native-testfairy');
 
 const { width, height } = Dimensions.get('window');
 const ASPECT_RATIO = width / height;
@@ -29,6 +30,10 @@ export default class App extends React.Component {
     };
   }
 
+  componentWillMount() {
+    TestFairy.begin("d86c94cfe40e335f07f97595bad864801c757522");
+ }
+
   componentDidMount() {
     return getCurrentLocation().then(position => {
       if (position) {
@@ -50,7 +55,7 @@ export default class App extends React.Component {
     oldMarkers = this.state.markers
     newLoc = details.geometry.location
     vp = details.geometry.viewport
-
+    TestFairy.log("Got a location")
     latDelta = Math.abs(vp.northeast.lat - vp.southwest.lat)
     this.state.markers.push(details)
     this.setState({

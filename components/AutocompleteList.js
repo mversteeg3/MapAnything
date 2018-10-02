@@ -56,9 +56,8 @@ export class AutocompleteList extends React.PureComponent {
     if (this.state.connected) {
       return sendPlacesQuery(text).then(function (val) {
         self.setState({ data: val, loading: false, focused: true})
-        
       }).catch(function (err) {
-        console.error(err)
+        Toast.show("Something went wrong, please try again later")
       });
     } else {
       Toast.show('No internet connection!  Please connect to a network to search locations');
@@ -86,7 +85,7 @@ export class AutocompleteList extends React.PureComponent {
               ref={(input) => { this.inputText = input; }}
               style={styles.input}
               autoFocus={this.state.focused}
-              placeholder="Search for a location"
+              placeholder="Search for a location..."
               onChangeText={(text) => {
                 if (text.length >= this.props.threshold) {
                   this.setState({ loading: true, text: text, data: [] });
@@ -112,7 +111,7 @@ export class AutocompleteList extends React.PureComponent {
               ref={(input) => { this.inputText = input; }}
               style={styles.input}
               autoFocus={this.state.focused}
-              placeholder="Search for a location"
+              placeholder="Search for a location..."
               onChangeText={(text) => {
                 if (text.length >= this.props.threshold) {
                   this.setState({ loading: true, text: text, data: [] });

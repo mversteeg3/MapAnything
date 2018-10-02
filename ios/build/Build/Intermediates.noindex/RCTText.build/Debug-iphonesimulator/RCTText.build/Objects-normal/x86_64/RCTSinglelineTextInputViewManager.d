@@ -28,8 +28,10 @@ dependencies: \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputShadowView.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/TextInput/Singleline/RCTSinglelineTextInputView.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
   /Users/mversteeg3/MapAnything/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \

@@ -29,4 +29,5 @@ dependencies: \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTModalManager.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Modules/RCTEventEmitter.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/mversteeg3/MapAnything/node_modules/react-native/React/Views/RCTLayout.h \
   /Users/mversteeg3/MapAnything/node_modules/react-native/React/Base/RCTRootView.h

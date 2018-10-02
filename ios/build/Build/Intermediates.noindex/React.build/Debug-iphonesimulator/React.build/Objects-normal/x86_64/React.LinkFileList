@@ -1,4 +1,5 @@
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxMethod.o
+/Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/JSExecutor.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIManagerUtils.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView+Internal.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTStatusBarManager.o
@@ -24,6 +25,7 @@
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTBorderDrawing.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxConvert.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDatePicker.o
+/Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWKWebViewManager.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAssert.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIManagerObserverCoordinator.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollContentViewManager.o
@@ -51,6 +53,7 @@
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTEventEmitter.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceRootShadowView.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTJavaScriptLoader.o
+/Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTVersion.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPerfMonitor.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTLayoutAnimation.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxModule.o
@@ -74,6 +77,7 @@
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAppState.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRootContentView.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/UIView+React.o
+/Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTLayout.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRedBoxExtraDataViewController.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSliderManager.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDeviceInfo.o
@@ -100,10 +104,12 @@
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTKeyCommands.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUtils.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTConvert+Transform.o
+/Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/YGConfig.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRefreshControl.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDatePickerManager.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWebView.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTBridge.o
+/Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWKWebView.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView+Layout.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView.o
 /Users/mversteeg3/MapAnything/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMaskedView.o
