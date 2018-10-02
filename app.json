@@ -1,0 +1,10 @@
+{
+  "displayName": "MapAnything",
+  "name": "MapAnything",
+  "expo": {
+    "slug": "MapAnything",
+    "name": "MapAnything",
+    "sdkVersion": "30.0.0",
+    "entryPoint": "/Users/mversteeg3/MapAnything/.vscode/exponentIndex.js"
+  }
+}
