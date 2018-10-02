@@ -86,7 +86,6 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <MapView
           ref={(ref) => { this.mapRef = ref }}
-          provider={this.props.provider}
           style={styles.map}
           showsUserLocation={true}
           scrollEnabled={true}

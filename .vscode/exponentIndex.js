@@ -4,7 +4,7 @@ var React = require('/Users/mversteeg3/MapAnything/node_modules/react');
 var { Component } = React;
 var ReactNative = require('/Users/mversteeg3/MapAnything/node_modules/react-native');
 var { AppRegistry } = ReactNative;
-var entryPoint = require('/Users/mversteeg3/MapAnything/index.android.js');
+var entryPoint = require('/Users/mversteeg3/MapAnything/index.js');
 AppRegistry.registerRunnable('main', function(appParameters) {
     AppRegistry.runApplication('MapAnything', appParameters);
 });
